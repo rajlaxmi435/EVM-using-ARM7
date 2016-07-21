@@ -1,1 +1,2 @@
-Code for EVM machine using ARM 7 Architecure
+Code for EVM machine using ARM 7 Architecure in embedded C 
+-
